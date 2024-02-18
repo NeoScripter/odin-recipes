@@ -13,7 +13,8 @@
 }
 
 h1 {
-    font-family: "Brush Script MT";
+    font-family: 'Kaushan Script', cursive;
+    
 }
 
 body {
@@ -52,5 +53,5 @@ body {
     text-align: center;
     padding: 1rem 0;
     font-size: 1.5rem;
-    font-family: "Brush Script MT";
+    font-family: 'Kaushan Script', cursive;
   }
